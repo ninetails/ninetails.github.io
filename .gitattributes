@@ -1,0 +1,23 @@
+* text text=auto eol=lf encoding=UTF-8 whitespace=indent-with-non-tab,trailing-space,space-before-tab,tabwidth=4
+
+# Images
+*.gif  binary
+*.ico  binary
+*.ico  binary
+*.jpeg binary
+*.jpg  binary
+*.png  binary
+*.svg  binary
+*.tif  binary
+*.tiff binary
+*.webp binary
+
+# Fonts
+*.eot   binary
+*.ttf   binary
+*.woff  binary
+*.woff2 binary
+
+# Exclude files from exporting
+.gitattributes export-ignore
+.gitignore     export-ignore
